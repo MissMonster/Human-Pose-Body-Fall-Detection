@@ -1,7 +1,7 @@
                                                   Human-pose-and-body-fall-detection
 
 Aim : 
-  To create an AI/ ML model that can use the different body Pose and fall positions and predict/alert nearby resources
+  To create an AI/ ML model that can find different body pose and detect body fall.
 
 Packages required :
   pip install playsound
